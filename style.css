@@ -1,0 +1,82 @@
+body
+{
+    background-image: url('image/school.jpg');
+    background-size: 100%;
+    background-repeat:no-repeat;
+    font-family: 'Noto Sans', sans-serif;
+}
+header
+{
+    text-align: center;
+    padding: 5px;
+    background-color: #1F1F1F;
+    color: white;
+}
+#form
+{
+    text-align: center;
+}
+fieldset
+{
+background-color: rgba(114, 104, 211, 0.8);
+}
+#fieldset1
+{
+    width: 23%;
+    height: 250px;
+}
+div
+{
+    position: relative;
+    top: 50px;
+}
+label
+{
+    color: white;
+    text-align: center;
+}
+#submit
+{
+    width: 50%;
+    background-color: black;
+    color: white;
+}
+table
+{
+    width: 50%;
+    text-align: center;
+    position: relative;
+    top: 150px;
+    left: 200px;
+}
+table th
+{
+    text-align: center;
+    background-color: #1F1F1F;
+    color: white;
+    border: 1px solid;
+}
+table td
+{
+    text-align: center;
+    background-color: #3D3D3D;
+    color: white;
+    border: 1px solid;
+}
+#fieldset2
+{
+    height: 800px;
+    width: 1000px;
+    position: relative;
+    bottom: 300px;
+    float: right;
+}
+#clear
+{
+    width: 20%;
+    background-color: white;
+    color: black;
+    position: relative;
+    left: 370px;
+    top: 200px;
+}
